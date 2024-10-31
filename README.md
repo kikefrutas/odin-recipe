@@ -1,2 +1,2 @@
 # odin-recipe
-**En algun momento**, ahcia el final del proyecto, veremos que reflexion escribir aqui.
+**En algun momento**, hacia el final del proyecto, veremos que reflexion escribir aqui.
